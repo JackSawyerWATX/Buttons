@@ -1,0 +1,17 @@
+body {
+    font-family: Arial;
+  }
+  
+  #name {
+    background-color: gold;
+    color: blue;
+  }
+  
+  #likes {
+    background-color: blue;
+    color: gold;
+  }
+  
+  .buttons {
+    align-items: vertical;
+  }
